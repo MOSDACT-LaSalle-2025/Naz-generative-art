@@ -1,2 +1,2 @@
-# Naz-generative-art
+# Naz-generative-art-trials
 Dance
